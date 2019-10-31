@@ -1,4 +1,4 @@
-## phone-book-study
+## Phone Book App Study
 
 A very simple Phone Book model app developed in Portuguese that allows the user to save and edit student contacts containing 
 their name, phone number and email adress.
