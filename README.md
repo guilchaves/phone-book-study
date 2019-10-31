@@ -20,6 +20,6 @@ Since this is only for showcase, this app eventually will get improved as far as
 ### App Functionality
 
 * Add new contacts by clicking on the Add Button (Floating Action Button).
-* After filling the blank text inputs, save by clicking into the Check button
+* After filling the blank text inputs, save by clicking into the Check button.
 * Clicking into existing contacts allow the user to Edit the existing info.
 * Long click on a contact allows the User to Remove contact by clicking into "Remover" (remove).
