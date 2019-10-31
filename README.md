@@ -1,4 +1,4 @@
-## phone-book-Study
+## phone-book-study
 
 A very simple Phone Book model app developed in Portuguese that allows the user to save and edit student contacts containing 
 their name, phone number and email adress.
@@ -22,4 +22,4 @@ Since this is only for showcase, this app eventually will get improved as far as
 * Add new contacts by clicking on the Floating Action Button.
 * After filling the blank text inputs, save by clicking into the Check button
 * Clicking into existing contacts allow the user to Edit the existing info.
-* Long click on a contact allows the User to Remove contact by clicking into the "Remover".
+* Long click on a contact allows the User to Remove contact by clicking into "Remover" (remove).
