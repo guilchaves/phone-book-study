@@ -1,4 +1,4 @@
-## PhoneBook-Study
+## phone-book-Study
 
 A very simple Phone Book app developed in Portuguese that allows the user to save and edit contacts containing 
 their name, phone number and email adress.
