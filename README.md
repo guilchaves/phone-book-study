@@ -3,6 +3,8 @@
 A very simple Phone Book app developed in Portuguese that allows the user to save and edit contacts containing 
 their name, phone number and email adress.
 
+![](screenshots/app_1.png) ![](screenshots/app_2.png) ![](screenshots/app_4.png)
+
 ### About the app
 
 This app was developed during my studies in Java development for Android.
