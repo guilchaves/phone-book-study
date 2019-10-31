@@ -12,7 +12,7 @@ Since this is only for showcase, this app eventually will get improved as far as
 
 
 >**My goals with this project was to:**
->- To develop and improve Activity workflow and simple layouts.
+>- Develop and improve Activity workflow and simple layouts.
 >- Work with simple life cycle callbacks.
 >- Work with DAO class in order to get acess to the app data source.
 
