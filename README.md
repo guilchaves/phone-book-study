@@ -14,7 +14,7 @@ Since this is only for showcase, this app eventually will get improved as far as
 >**My goals with this project was to:**
 >- Develop and improve Activity workflow and simple layouts;
 >- Work with simple life cycle callbacks;
->- Work with DAO class in order to get acess to the app data source;
+>- Work with DAO pattern in order to get acess to the data source;
 
 
 ### App Functionality
